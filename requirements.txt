@@ -1,0 +1,16 @@
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+python-dotenv
+scikit-learn
+lightgbm
+shap
+lifelines
+streamlit
+matplotlib
+seaborn
+joblib
+openpyxl
+pytest
+ipykernel
