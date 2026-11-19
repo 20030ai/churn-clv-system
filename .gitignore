@@ -8,3 +8,5 @@ __pycache__/
 
 DS-02/data/
 .venv/
+
+lightning_logs/
