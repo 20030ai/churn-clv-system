@@ -247,7 +247,7 @@ python -c "import pandas as pd; d=pd.read_parquet('results/forecasts.parquet'); 
 
 ## 13. Dashboard screenshots
 
-Save screenshots in `docs/` with these names and they will display here.
+screenshots in `docs/` with these names and they will display here.
 
 ![Forecast chart with 80% interval](docs/app_forecast_chart.png)
 ![Store dropdown](docs/app_store_dropdown.png)
