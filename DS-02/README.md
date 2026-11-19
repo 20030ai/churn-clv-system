@@ -253,15 +253,8 @@ Save screenshots in `docs/` with these names and they will display here.
 ![Store dropdown](docs/app_store_dropdown.png)
 ![Model accuracy and order recommendations](docs/app_metrics_orders.png)
 
-## 14. Deliverables checklist
 
-- [ ] Working demo (screen recording or deployed link)
-- [ ] GitHub repository with clean commits, README and setup instructions
-- [ ] Architecture diagram (section 4)
-- [ ] Test results and accuracy numbers (section 7)
-- [ ] 10-minute presentation: problem, design, challenges, results, next steps
-- [ ] Individual reflection on what was learned and owned
 
-## 15. Data source
+## 14. Data source
 
 M5 Forecasting - Accuracy, Walmart sales data, published on Kaggle.
